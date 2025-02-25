@@ -1,3 +1,5 @@
+This project was developed as part of a university assignment, where I contributed to the UI development for two pages—the washing machine reservations and the forum, which was built using JavaScript. Additionally, I implemented the email notification script in Python, using a gmail account to send confirmation emails and other user notifications.
+
 # UApp register_login
 
 # API Documentation
